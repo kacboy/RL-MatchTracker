@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RL Match Tracker</string>
+    <string name="points">Points</string>
+    <string name="goals">Goals</string>
+    <string name="assists">Assists</string>
+    <string name="saves">Saves</string>
+    <string name="shots">Shots</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+    <string name="platformTitle">Choose your platform</string>
+    <string-array name="platformList">
+        <item>Steam</item>
+        <item>Playstation 4</item>
+        <item>Xbox One</item>
+        <item>Switch</item>
+    </string-array>
+    <string-array name="appColour">
+        <item>Blue</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="gameModes">
+        <item>3v3 Standard</item>
+        <item>2v2 Doubles</item>
+        <item>1v1 Duel</item>
+    </string-array>
+</resources>

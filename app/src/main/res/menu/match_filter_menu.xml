@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/topNavigationFilter"
+        android:icon="@drawable/icon_filter"
+        android:title=""
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/defaultFilter"
+                android:title="Sort by time"/>
+            <item
+                android:id="@+id/modeFilter"
+                android:title="Sort by mode" />
+            <item
+                android:id="@+id/goalsFilter"
+                android:title="Sort by goals" />
+            <item
+                android:id="@+id/winFilter"
+                android:title="Sort by wins" />
+            <item
+                android:id="@+id/pointsFilter"
+                android:title="Sort by points"/>
+        </menu>
+    </item>
+</menu>
